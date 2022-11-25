@@ -4,7 +4,7 @@ author: Howe Tuduit
 
 # Close all of your programs
 
-You need to shut down everything else before installing major programs
+You need to shut down everything else before installing any programs
 
 1.  If you are on a Windows system, click the X in the corner of each program.
 
@@ -14,4 +14,4 @@ You need to shut down everything else before installing major programs
 
 3.  If you are on a Macintosh, you will have to ask someone else. I have a wonderful little iPod, but that is the limit of my experience with Apple products.
 
-
+4.  If you are on a different interface, you will also have to ask someone else.
